@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-vue2-roboleary",
   "author": "Rob O'Leary",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "My ESLint config for Vue 2 apps.",
   "repository": {
     "type": "git",

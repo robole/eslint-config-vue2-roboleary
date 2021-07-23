@@ -22,5 +22,6 @@ module.exports = {
     "prefer-const": "off",
     radix: "off",
     "no-plusplus": ["error", { allowForLoopAfterthoughts: true }],
+    "vue/max-attributes-per-line": 0, //inteferes with prettier
   },
 };

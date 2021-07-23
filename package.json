@@ -1,7 +1,7 @@
 {
-  "name": "eslint-config-roboleary",
+  "name": "eslint-config-vue2-roboleary",
   "author": "Rob O'Leary",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "My ESLint config for Vue 2 apps.",
   "repository": {
     "type": "git",
@@ -27,12 +27,12 @@
   ],
   "main": "index.js",
   "peerDependencies": {
-    "eslint": ">=7",
-    "prettier": ">=2.3.2"
+    "eslint": ">=6",
+    "prettier": ">=2"
   },
   "dependencies": {
-    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-config-airbnb-base": ">=14.2.1",
     "eslint-config-prettier": ">=6.15.0",
-    "eslint-plugin-vue": "^7.14.0"
+    "eslint-plugin-vue": ">=7.14.0"
   }
 }

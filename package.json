@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-vue2-roboleary",
   "author": "Rob O'Leary",
-  "version": "0.3.0",
+  "version": "0.3.1",
   "description": "My ESLint config for Vue 2 apps.",
   "repository": {
     "type": "git",
@@ -26,10 +26,6 @@
     "prettier"
   ],
   "main": "index.js",
-  "peerDependencies": {
-    "eslint": ">=6",
-    "prettier": ">=2"
-  },
   "dependencies": {
     "eslint-config-airbnb-base": ">=14.2.1",
     "eslint-config-prettier": ">=6.15.0",

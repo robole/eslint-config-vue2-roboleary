@@ -9,7 +9,7 @@ It includes the following:
 
 ## Usage
 
-1. Install this package, ESLint (peer dependency) and Prettier (peer dependency) as *devDependencies* with the command `npx install-peerdeps --dev eslint-config-vue2-roboleary`.
+1. Install this package, ESLint, and Prettier as *devDependencies* with the command `npm install --save-dev eslint-config-vue2-roboleary eslint prettier`.
 1. Create an eslint config file in the root of your project directory e.g. _.eslintrc_. Add the following:
 
    ```json
